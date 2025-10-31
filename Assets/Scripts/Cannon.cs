@@ -8,7 +8,6 @@ public class Cannon : MonoBehaviour, IPlayerActions
     [SerializeField] private float _maxRotation;
     [SerializeField] private float _minRotation;
     [SerializeField] private float _maxSpeed;
-    [SerializeField] private float _minSpeed;
     
     private float _offset = -51.6f;
     private float _angle;

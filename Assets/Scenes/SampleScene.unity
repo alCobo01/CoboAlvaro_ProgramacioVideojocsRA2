@@ -353,7 +353,7 @@ MonoBehaviour:
   _multiplier: 5
   _maxRotation: 30
   _minRotation: -72
-  _maxSpeed: 10
+  _maxSpeed: 8
   _minSpeed: 0
   _shootPoint: {fileID: 813391960732321730}
   _bullet: {fileID: 3310951103841112713, guid: 23530ee81f0a7b748a4ddbd0417f8776, type: 3}
